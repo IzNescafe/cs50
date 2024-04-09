@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: for the random array, using bubble sort would takes the longest time.
+
+sort2 uses: Merge Sort
+
+How do you know?: The only one left.
+
+sort3 uses: Selection sort
+
+How do you know?: for the sorted array, using bubble sort and merge sort would be faster than selection sort and sort3 took longest.
